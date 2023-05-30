@@ -1,0 +1,9 @@
+SpringBoot 调用外部接口的三种方式
+https://mp.weixin.qq.com/s/4SahMPSOjrb69qMGgLWeVQ
+
+Spring Boot 接口加解密，新姿势！
+https://mp.weixin.qq.com/s/aWMqodz_r_y4qgc6AtedNQ
+
+和 try catch 说再见，SpringBoot 统一异常处理就该这么搞！
+https://mp.weixin.qq.com/s/_fbpd11pVGTqbMclRnQqkg
+
