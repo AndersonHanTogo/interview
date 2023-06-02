@@ -7,3 +7,6 @@ https://mp.weixin.qq.com/s/aWMqodz_r_y4qgc6AtedNQ
 和 try catch 说再见，SpringBoot 统一异常处理就该这么搞！
 https://mp.weixin.qq.com/s/_fbpd11pVGTqbMclRnQqkg
 
+@AutoConfigurationPackage 和 @ComponentScan 有何区别？
+https://mp.weixin.qq.com/s/wwOiC9H-W7JmxcKS3npSyg
+
