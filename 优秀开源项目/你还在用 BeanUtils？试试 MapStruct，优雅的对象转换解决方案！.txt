@@ -1,0 +1,3 @@
+你还在用 BeanUtils？试试 MapStruct，优雅的对象转换解决方案！
+https://mp.weixin.qq.com/s/U9JsTcdKVwijKj-g4Qmzbg
+
