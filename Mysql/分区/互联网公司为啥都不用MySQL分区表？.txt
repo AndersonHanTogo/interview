@@ -1,0 +1,3 @@
+互联网公司为啥都不用MySQL分区表？
+https://mp.weixin.qq.com/s/XtWx4-lB0YtI8uPgEPdBjA
+

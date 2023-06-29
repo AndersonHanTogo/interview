@@ -1,0 +1,3 @@
+如何高效优雅的使用java枚举
+https://mp.weixin.qq.com/s/CLr5bcxsG7C8v6qSsagEbw
+
